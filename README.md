@@ -1,10 +1,10 @@
 ## Netflix_Visual_Analytics_Assignment
 Netflix Data Processing and Visual Analytics project integrating Python and R. Includes data preparation, cleaning, exploratory analysis, visualization, and cross-language integration for Netflix content insights.
 
-Author
+# Author
 Pascal Eliezer Okai
 
-📘 Project Overview
+# 📘 Project Overview
 This project demonstrates comprehensive data analysis, visualization techniques, and cross-language integration between Python and R for Netflix content analytics. It showcases how data professionals can handle real-world datasets, perform exploratory analysis, and create meaningful visualizations across multiple programming environments.
 
 The workflow includes:
@@ -23,7 +23,7 @@ Maintaining reproducible research practices
 
 This project highlights my ability to combine analytical thinking, statistical reasoning, and visualization skills - valuable competencies for data analytics, business intelligence, and research roles.
 
-🧩 Tasks Completed
+# 🧩 Tasks Completed
 1. Data Preparation
 The Netflix dataset was imported and processed using Python, with systematic unzipping and renaming to "Netflix_shows_movies" for consistency.
 
@@ -72,7 +72,7 @@ Automatic column detection in diverse datasets
 
 Graceful handling of missing or corrupted data
 
-🗂️ Project Structure
+# 🗂️ Project Structure
 File/Folder	Description
 netflix_analysis.py	Main Python script for data processing and visualization
 netflix_analysis.R	R script for comparative visualizations
@@ -82,7 +82,9 @@ ratings_distribution.png	Python visualization of ratings distribution
 ratings_distribution_r.png	R version of ratings visualization
 type_distribution.png	Movies vs TV Shows analysis
 README.md	Project documentation and usage guide
-📊 Key Findings from Visualizations
+
+
+# 📊 Key Findings from Visualizations
 Genre Distribution Analysis
 Top Genres: Dramas, Comedies, International Movies, Action & Adventure, Documentaries
 
@@ -104,13 +106,13 @@ TV Shows: 28.8% of Netflix catalog
 
 Strategic Focus: Significant emphasis on movie content over series
 
-🧠 Technologies Used
+# 🧠 Technologies Used
 Languages: Python, R
 Tools: Jupyter Notebook, RStudio, Git
 Python Libraries: pandas, numpy, matplotlib, seaborn, zipfile
 R Libraries: ggplot2, dplyr, readr, readxl
 
-🚀 How to Run the Project
+# 🚀 How to Run the Project
 1️⃣ Python Workflow
 Open netflix_analysis.py in your preferred Python environment
 
@@ -132,7 +134,7 @@ Cleaned dataset: Netflix_shows_movies_cleaned.csv
 
 Multiple visualization files (.png)
 
-2️⃣ R Workflow
+# 2️⃣ R Workflow
 Open netflix_analysis.R in RStudio
 
 Ensure Netflix_shows_movies_cleaned.csv is in the working directory
@@ -163,7 +165,7 @@ Ratings Distribution:
 Content Type:
 - Movies: 71.2% (Primary focus)
 - TV Shows: 28.8% (Significant series collection)
-🧾 Notes
+# 🧾 Notes
 Keep all files in the same directory for smooth execution
 
 The scripts automatically handle both CSV and Excel file formats
@@ -176,10 +178,10 @@ The analysis includes both Python and R implementations for method validation
 
 Actual visualization outputs show balanced genre distribution and clear rating patterns
 
-🧭 Purpose
+# 🧭 Purpose
 This repository is part of my growing data analytics and visualization portfolio, demonstrating comprehensive data processing, statistical analysis, and cross-language integration skills. It showcases my ability to handle complete data analysis pipelines from raw data to actionable insights, with particular emphasis on content strategy analysis for streaming platforms.
 
-💬 Connect
+# 💬 Connect
 📧 Email: okaipascal@gmail.com
 🌍 LinkedIn: linkedin.com/in/pascal-eliezer-okai-6a9a45162
 💻 GitHub: github.com/okaipascal-debug
